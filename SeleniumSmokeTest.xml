@@ -5,6 +5,7 @@
   <test thread-count="5" name="SeleniumSmokeTest">
     <classes>
       <class name="smokeTest.ATagsTest"/>
+      <class name="smokeTest.presenceOfCheckBoxTestNG"/>
     </classes>
   </test> <!-- SeleniumSmokeTest -->
   
